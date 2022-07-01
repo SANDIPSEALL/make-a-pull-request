@@ -1,5 +1,5 @@
-# love babbar
+# sandip
 
-## 3st Year, CSE
+## bcom khatam
 
-## c++, JavaScript
+## web dev
